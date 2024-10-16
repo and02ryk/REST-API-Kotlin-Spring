@@ -4,8 +4,7 @@ Description: This is a REST API project built using Spring Boot and Kotlin.
 
 Database Schema:
 
-![image](https://github.com/user-attachments/assets/ea7c99ea-ace4-4606-9d72-acf605fc820f)
-
+![image](https://github.com/user-attachments/assets/72a5b4f3-a074-436c-9f08-d991184bc2f5)
 
 
 Features:
